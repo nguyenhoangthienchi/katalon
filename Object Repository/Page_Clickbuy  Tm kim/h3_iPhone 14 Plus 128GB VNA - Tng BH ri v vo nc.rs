@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_iPhone 14 Plus 128GB VNA - Tng BH ri v vo nc</name>
+   <tag></tag>
+   <elementGuidId>aae271dd-9a00-4653-92e0-fd8f5725b413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.title_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listdata']/div/a/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;iPhone 14 Plus 128GB VNA - Tặng BH rơi vỡ vào nước&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>934ad529-a3ac-4b73-afc8-342bc19ea5d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_name</value>
+      <webElementGuid>3e9641f3-eca6-4ad0-be24-45ea9d6079b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iPhone 14 Plus 128GB VNA - Tặng BH rơi vỡ vào nước</value>
+      <webElementGuid>95a4619e-ad68-4a71-a0cc-af20c473a3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listdata&quot;)/div[@class=&quot;list-products__item&quot;]/a[1]/div[@class=&quot;detail&quot;]/h3[@class=&quot;title_name&quot;]</value>
+      <webElementGuid>10274360-22b6-4ea5-9f47-7866d871a547</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listdata']/div/a/div[2]/h3</value>
+      <webElementGuid>8c226817-7184-4e26-bee9-b3951e978ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 cũ'])[1]/following::h3[1]</value>
+      <webElementGuid>ba074b82-ccde-4f20-816e-94f77dc5ba35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 thường'])[1]/following::h3[1]</value>
+      <webElementGuid>a081e53b-8b3e-4ffa-9744-4e59aaf51167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trả góp 0%'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ac75a6c8-1aa1-41ac-b169-37cf7f2e5d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(9 đánh giá)'])[1]/preceding::h3[1]</value>
+      <webElementGuid>7d2c0965-3112-4b07-923a-36bda39c02ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iPhone 14 Plus 128GB VNA - Tặng BH rơi vỡ vào nước']/parent::*</value>
+      <webElementGuid>52855323-bae6-41a7-b0d9-18ec798bcf42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>14417c96-3542-4605-a94a-21dc37757df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'iPhone 14 Plus 128GB VNA - Tặng BH rơi vỡ vào nước' or . = 'iPhone 14 Plus 128GB VNA - Tặng BH rơi vỡ vào nước')]</value>
+      <webElementGuid>05e4ce1c-3b13-4672-bbe6-63fed7209487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

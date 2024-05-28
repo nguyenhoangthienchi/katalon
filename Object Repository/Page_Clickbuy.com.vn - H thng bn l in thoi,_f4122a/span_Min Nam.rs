@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Min Nam</name>
+   <tag></tag>
+   <elementGuidId>d6f60ef2-fbde-4381-9af7-3fd99fb972d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > span.modal__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='provinceList']/li[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#provinceList >> internal:text=&quot;Miền Nam&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc9c9b27-2699-4eeb-822f-664291fe5ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal__button</value>
+      <webElementGuid>d4aa5395-3a0a-438b-9230-da7d1b0965de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Miền Nam</value>
+      <webElementGuid>a42769c4-32ee-41c1-be8e-53e280a20fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provinceList&quot;)/li[3]/span[@class=&quot;modal__button&quot;]</value>
+      <webElementGuid>56d6708e-3a38-4985-9c89-c6efb8400f5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='provinceList']/li[3]/span</value>
+      <webElementGuid>3216a21e-74c1-4484-86bc-5a411aac7e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nghệ An - Đà Nẵng'])[3]/following::span[1]</value>
+      <webElementGuid>55ba681c-4cf0-4de5-9b63-3cb30d23d520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miền Bắc'])[4]/following::span[2]</value>
+      <webElementGuid>9a89488b-50da-458c-8d8f-8b9ff640430b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[3]/span</value>
+      <webElementGuid>9966adb5-2e48-4193-8f48-b249b9e9e8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Miền Nam' or . = 'Miền Nam')]</value>
+      <webElementGuid>60c0614e-f39f-4d85-95af-07e400f2190a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
