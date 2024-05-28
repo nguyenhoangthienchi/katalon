@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_lkjasdlfkjalsdkj at 1023.20.not found la_791804</name>
+   <tag></tag>
+   <elementGuidId>6830559c-a3ea-43d8-8570-a46a62d2cf34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='botstuff']/div/div[2]/div/p/span/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=emphasis</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>c19b49dc-2b0a-4572-a339-b26cdac61170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>lkjasdlfkjalsdkj at 1023.20.:not found lalskjdf.jssssssss:33030923</value>
+      <webElementGuid>1acd0aeb-26c0-461f-bf0e-fce8e2ba2173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;botstuff&quot;)/div[1]/div[@class=&quot;mnr-c&quot;]/div[@class=&quot;card-section&quot;]/p[1]/span[1]/em[1]</value>
+      <webElementGuid>af94aed9-7e3d-4ab3-9175-f07f488625fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='botstuff']/div/div[2]/div/p/span/em</value>
+      <webElementGuid>a35af800-cf7d-4918-902c-fe7240c6959c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt ngôn ngữ'])[1]/following::em[1]</value>
+      <webElementGuid>88628c07-a325-460c-9a63-d7165b1aee30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Việt'])[1]/following::em[1]</value>
+      <webElementGuid>c4518247-a828-417e-81d6-efd1f2d5b17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin bạn chắc chắn rằng tất cả các từ đều đúng chính tả.'])[1]/preceding::em[1]</value>
+      <webElementGuid>cf9f8216-32f3-4311-bf95-57978bdc43f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hãy thử những từ khóa khác.'])[1]/preceding::em[1]</value>
+      <webElementGuid>b2ef6478-7320-45fe-bc9c-b41bfe837dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>b2735a81-e60d-4749-84d6-5b93a9416bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'lkjasdlfkjalsdkj at 1023.20.:not found lalskjdf.jssssssss:33030923' or . = 'lkjasdlfkjalsdkj at 1023.20.:not found lalskjdf.jssssssss:33030923')]</value>
+      <webElementGuid>8b1f0b64-5bfa-4282-8b9c-bcf5ea271f13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
