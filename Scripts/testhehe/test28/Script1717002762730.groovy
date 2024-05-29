@@ -17,5 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.freecodecamp.org/the-fastest-web-page-on-the-internet')
+WebUI.openBrowser('https://www.freecodecamp.org/the-fastest-webaaaa-page-on-the-internet')
+WebUI.takeScreenshot()
 

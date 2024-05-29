@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.freecodecamp.org/the-fastest-web-page-on-the-internet')
 
+WebUI.takeFullPageScreenshot()
+
